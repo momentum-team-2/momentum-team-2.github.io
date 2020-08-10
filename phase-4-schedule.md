@@ -1,11 +1,12 @@
 ---
 title: Phase 4 Final Projects Schedule
 permalink: /phase-4-schedule/
+layout: default
 ---
 
 # Phase 4 Final Project & Presentation Schedule
 
-## Week 1 (_Aug 10-14):
+## Week 1 (_Aug 10-14_):
 - Monday-Wednesday: Agile Development & Project Planning
   - morning class 9:30-11:30
   - afternoon class 2:00-3:30
@@ -20,12 +21,12 @@ permalink: /phase-4-schedule/
   - late-day, team only; set your own schedule
 - **1st check-in on Monday Aug 17**
   - 30 minutes
-  - Time for your team listed below
+  - Time TBD
 - **Regular check-ins every Monday & Wednesday**
   - 60 minutes
   - starting Weds Aug 19
-  - Time for your team listed below
-- **All-team check-in for peer feedback** Fri Aug 28 @2:00pm
+  - Time TBD
+- **All-team check-in for peer feedback** Fri Aug 28 @Time TBD
 
 ## Week 4 (_August 31-September 4_): Presentation Week!
 
@@ -34,16 +35,10 @@ permalink: /phase-4-schedule/
   - Only bug fixes and clean-up from this point on
 - _Code Freeze_ Tues Sept 1 @EOD
   - Time to stop writing code and focus completely on your presentation
-
 - **All-team rehearsal** Weds Sept 2 @3:00pm
-- **Public-speaking coaching with Mr. Mitsch** Thursday Sept 3
-- **Final rehearsal with staff** Thursday Sept 3
-- **All-team tech check & run-through**
-  - Thurs Sept 3 @3:00 pm
-  -
-- **Presentations**
-  - Fri Sept 4 @10:00 am
-
-- **Graduation**
-  - Fri Sept 4 @1:00 pm
+- **Public-speaking coaching with Mr. Mitsch** Thursday Sept 3 @Time TBD
+- **Final rehearsal with staff** Thursday Sept 3 @Time TBD
+- **All-team tech check & run-through** Thurs Sept 3 @3:00 pm
+- **Presentations** Fri Sept 4 @10:00 am
+- **Graduation** Fri Sept 4 @1:00 pm
 
